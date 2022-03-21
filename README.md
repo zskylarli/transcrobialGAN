@@ -1,7 +1,7 @@
 # transcrobialGAN
 GAN art project for Danino lab 
 
-## Setting up Torch for OSX 
+## Setting up art-DCGAN for OSX 
 
 Run all commands in Terminal
 
